@@ -18,11 +18,11 @@ msgstr "Pievienot izsekotājus"
 
 msgctxt "BtDetailsTab|"
 msgid "Peers:"
-msgstr ""
+msgstr "Līdzgaitnieki:"
 
 msgctxt "BtDetailsTab|"
 msgid "Seeds:"
-msgstr ""
+msgstr "Sēklas:"
 
 msgctxt "BtDetailsTab|"
 msgid "Availability:"
@@ -30,11 +30,11 @@ msgstr ""
 
 msgctxt "BtDetailsTab|"
 msgid "Last seen complete:"
-msgstr ""
+msgstr "Pēdējo reizi pabeigts"
 
 msgctxt "BtDetailsTab|"
 msgid "Tracker URL"
-msgstr ""
+msgstr "Izsekotāja URL"
 
 msgctxt "DownloadContextMenu|"
 msgid "Start all seeding downloads"
@@ -118,8 +118,7 @@ msgstr "Iespējot PeX lai atrastu vairāk līdzgaitniekus"
 
 msgctxt "Settings|"
 msgid "Enable Local Peer Discovery to find more peers"
-msgstr ""
-"Iespējot Lokālo Līdzgaitnieku Atklāšanu lai atrastu vairāk līdzgaitniekus"
+msgstr "Iespējot Lokālo Līdzgaitnieku Atklāšanu lai atrastu vairāk līdzgaitniekus"
 
 msgctxt "Settings|"
 msgid "Enable uTP"
